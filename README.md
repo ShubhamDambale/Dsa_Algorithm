@@ -1,9 +1,9 @@
 # Data Structures and Algorithms Practice
 
-[![GitHub license](https://img.shields.io/github/license/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/issues)
-[![GitHub stars](https://img.shields.io/github/stars/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YourUsername/YourRepository)](https://github.com/YourUsername/YourRepository/network)
+[![GitHub license](https://img.shields.io/github/license/ShubhamDambale/Dsa_Algorithm)](https://github.com/ShubhamDambale/Dsa_Algorithm/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/ShubhamDambale/Dsa_Algorithm)](https://github.com/ShubhamDambale/Dsa_Algorithm/issues)
+[![GitHub stars](https://img.shields.io/github/stars/ShubhamDambale/Dsa_Algorithm)](https://github.com/ShubhamDambale/Dsa_Algorithm/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShubhamDambale/Dsa_Algorithm)](https://github.com/ShubhamDambale/Dsa_Algorithm/network)
 
 ## Description
 
@@ -58,7 +58,7 @@ Include instructions on how to run your code, especially if it requires specific
 
 ```bash
 # Example commands
-git clone https://github.com/YourUsername/YourRepository.git
+git clone https://github.com/ShubhamDambale/Dsa_Algorithm.git
 cd YourRepository
 python main.py
 
